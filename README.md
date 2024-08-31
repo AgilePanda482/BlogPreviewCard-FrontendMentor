@@ -25,7 +25,7 @@ The challenge comes from the Frontend Mentor page.
 
 
 ### Links
-- Solution URL: [Link]()
+- Solution URL: [Link](!https://blogpreviewcard-agilepanda482.netlify.app/)
 
 ### Built with
 - HTML5
