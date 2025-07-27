@@ -1,0 +1,33 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "blog preview card challege from Frontend mentor build with tailwind",
+  "keywords": [
+    "tailwind",
+    "frontend",
+    "mentor",
+    "lading",
+    "page",
+    "challenge"
+  ],
+  "homepage": "https://github.com/AgilePanda482/BlogPreviewCard-FrontendMentor#readme",
+  "bugs": {
+    "url": "https://github.com/AgilePanda482/BlogPreviewCard-FrontendMentor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgilePanda482/BlogPreviewCard-FrontendMentor.git"
+  },
+  "license": "ISC",
+  "author": "AgilePanda482",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "build:styles": "npx @tailwindcss/cli -i ./src/input.css -o ./src/dist/output.css --minify",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/dist/output.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
