@@ -9,20 +9,19 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
     - [Screenshot](#screenshot)
     - [Links](#links)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
   - [Author](#author)
 
 ## Overview
-This is a simple page to practice HTML and CSS. 
+This is a simple page to practice Tailwind. 
 The challenge comes from the Frontend Mentor page. 
 
 ### Screenshot
 ![Normal Design](./screenshots/pc.jpeg)
 
-![Responsive Design](./screenshots/mobile.png)
+![Responsive Design](./screenshots/mobile.jpg)
 
 ### Links
-- Solution URL: [Link](!https://blogpreviewcard-agilepanda482.netlify.app/)
+- Solution URL: [Link](https://blogpreviewcard-tailwind-agp482.netlify.app/)
 
 ### Built with
 - HTML5
