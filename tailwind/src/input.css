@@ -1,2 +1,11 @@
 @import "tailwindcss";
 
+@theme {
+    --color-yellow-card: #F4D04E;
+    --color-gray-950-card: #111111;
+    --color-gray-500-card: #6B6B6B;
+
+    --font-figtree: 'Figtree', system-ui, sans-serif;
+
+    --shadow-flat: 0.5rem 0.5rem 0 0 #000000;
+}
